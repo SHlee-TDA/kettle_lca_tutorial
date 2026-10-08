@@ -1,0 +1,53 @@
+{
+  "record_date": "2026-10-08",
+  "timezone": "Asia/Seoul",
+  "stage": "initial_foreground_inventory",
+  "background_datasets": [],
+  "characterization_methods": [],
+  "files": [
+    {
+      "path": "data/foreground/kettle-bom.csv",
+      "role": "foreground_finished_mass_inventory",
+      "source_url": "https://tiangong-lca-decision-lab.ecodino73.chatgpt.site/classroom/kettle-bom.csv",
+      "retrieved_date": "2026-10-08",
+      "retrieval_method": "browser_download",
+      "sha256": "89b76fbf59a6ab1f3c5825cc6052556b15e1d3e8ea7739121ccb656d00b68f13",
+      "modified_from_download": false,
+      "original_report_verification": "Matched to Task 4 Tables 4-3, 4-4 and 4-8 on physical PDF pages 141, 142 and 145 on 2026-10-08.",
+      "license": "unknown; verify before public redistribution"
+    },
+    {
+      "path": "docs/readme-requirements.md",
+      "role": "user_supplied_readme_requirements",
+      "source": "user-supplied readme-requirements.md",
+      "received_date": "2026-10-08",
+      "sha256": "33a498f22a167dd65004f8b86f7e643030d2835d374244495a61600c5e108c2c",
+      "modified_from_attachment": false
+    },
+    {
+      "path": "data/cache/kettle-preparatory-study.pdf",
+      "role": "source_report",
+      "source_url": "https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3df3f4d6-3717-4261-99e3-a232323111d6/content",
+      "retrieved_date": "2026-10-08",
+      "included_in_git": false,
+      "document_dates": {
+        "task_4_cover": "May 2021",
+        "publication_copyright": "2020",
+        "pdf_compilation": "2022-09"
+      },
+      "verified_physical_pdf_pages": [
+        141,
+        142,
+        145,
+        166
+      ],
+      "sha256": "413980bdfdd02e05bd10e13b507b298bddc99f527adc207e8f7c6e8898532152"
+    },
+    {
+      "path": "data/foreground/production-scenarios.json",
+      "role": "user_approved_illustrative_scenarios_with_documented_modelling_simplifications",
+      "record_date": "2026-10-08",
+      "sha256": "b5bf642c4fb3b0c206abde21613130a1e7ced0a337bc9eb36c39f8d933aff96c"
+    }
+  ]
+}

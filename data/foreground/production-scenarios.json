@@ -1,0 +1,23 @@
+{
+  "status": "illustrative_sensitivity_only",
+  "decision_date": "2026-10-08",
+  "functional_unit": "Provision of one conforming, fully assembled and packaged BC1 1 L electric kettle at the factory gate.",
+  "good_output_units": 1,
+  "quality_basis": "Modelled acceptance: matches the BC1 specification and passes assembly and functional inspection. The actual inspection protocol and acceptance thresholds are unknown; this is not a certification claim.",
+  "inspection_stage": "after_complete_assembly_before_packaging",
+  "rework": false,
+  "component_salvage": false,
+  "component_salvage_status": "modelling simplification proposed by Codex; no avoided-production credit calculated",
+  "reject_composition": "same_finished_material_composition_as_one_kettle",
+  "packaging_rejects_modelled": false,
+  "packaging_rejects_status": "simplification for this first illustration; packaging-production losses remain unknown",
+  "baseline_defect_rate": null,
+  "component_fabrication_yields": null,
+  "packaging_conversion_yields": null,
+  "assembly_energy_kwh_per_attempt": null,
+  "inspection_energy_kwh_per_attempt": null,
+  "packaging_energy_kwh_per_good_unit": null,
+  "reject_treatment": null,
+  "scenario_defect_rates": [0.0, 0.02, 0.05],
+  "scenario_rate_evidence": "User-approved illustrative sensitivity values; not measured BC1 defect rates."
+}

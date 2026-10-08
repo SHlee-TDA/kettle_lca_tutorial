@@ -1,0 +1,2 @@
+# Preserve the downloaded BOM bytes for the recorded SHA-256.
+data/foreground/kettle-bom.csv -text whitespace=cr-at-eol
