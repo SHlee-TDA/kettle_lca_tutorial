@@ -48,6 +48,13 @@
       "role": "user_approved_illustrative_scenarios_with_documented_modelling_simplifications",
       "record_date": "2026-10-08",
       "sha256": "b5bf642c4fb3b0c206abde21613130a1e7ced0a337bc9eb36c39f8d933aff96c"
+    },
+    {
+      "path": "docs/attached-readme-instructions.md",
+      "role": "user_supplied_final_readme_instructions",
+      "received_date": "2026-10-08",
+      "sha256": "463264f9cb2f3ab63d3bdd6d428137277ffbdc86b75c212228a3e44928b53df4",
+      "modified_from_attachment": false
     }
   ]
 }

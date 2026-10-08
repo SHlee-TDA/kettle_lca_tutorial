@@ -22,5 +22,8 @@ This curated public record summarizes consequential choices rather than private 
 | 2026-10-08 | Codex | Model complete-BOM rejects, no component salvage and packaging only accepted units for this first illustration | Explicit simplifications; waste treatment and any credits unresolved |
 | 2026-10-08 | Codex | Verify source aggregate BOM tables and specifications; distinguish May 2021 Task 4 cover from 2020 publication text | See source-review.md |
 | 2026-10-08 | Codex | Generate reproducible finished-component demand scenarios with a checked standard-library calculator | Partial foreground inventory; no cumulative LCI or LCIA |
+| 2026-10-08 | User | Push the existing project and prepare an execution prompt and handoff for a new session to complete LCA and generate an HTML report automatically | Initial checkpoint pushed; continuation documents prepared |
+| 2026-10-08 | User | Interpret throughout LCA and iteratively update goal, scope, inventory or impact assessment when warranted | Explicit requirement in the execution prompt |
+| 2026-10-08 | Codex | Clarify that full LCI and LCIA have not been completed despite the user's initial impression | Partial status preserved in README, handoff and prompt |
 
 Displayed model/version and settings: unknown pending direct verification. No background process matches or cumulative LCI/LCIA results exist. Numerical foreground scenarios have been checked by code; independent human verification remains outstanding. Access failures are not numerical zeros.

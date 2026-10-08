@@ -30,7 +30,7 @@ Evaluate coverage of all 12 materials and required processing, upstream closure,
 
 ## Later implementation
 
-Prefer reproducible batch calculations and an English Markdown report with tables and figures. Choose software after inspecting data. Use a tested LCA engine if direct implementation cannot preserve allocation, parameter formulas or waste-flow semantics. A dashboard is not required.
+The user now requests a reproducible calculation pipeline that automatically generates an English HTML report from its actual results, alongside README and detailed data. See the [execution prompt](../prompts/complete-lca-and-html-report.md) and [handoff](../HANDOFF.md). This pipeline is not yet implemented. Choose software after inspecting data; use a tested LCA engine when needed to preserve allocation, formulas and waste-flow semantics. An offline HTML report is sufficient; hosting and a dashboard are not required.
 
 Check BOM totals, units, reference amounts, balances, providers, CF matching, contribution sums, matrix residuals and double counting. Preserve unknowns and distinguish partial from complete results.
 

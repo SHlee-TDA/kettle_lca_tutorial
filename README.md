@@ -4,6 +4,8 @@
 
 Start with the [goal and scope definition](docs/goal-and-scope.md), [inventory development](docs/inventory.md) and [phased study plan](docs/plan.md). Interpretation accompanies every phase. See the [decision log](docs/decisions.md). Unknown values never mean zero.
 
+For a new session, read the [handoff](HANDOFF.md) and [complete LCA and HTML report execution prompt](prompts/complete-lca-and-html-report.md). The prompt specifies the remaining work; an HTML report and full LCA pipeline have not yet been implemented. The latest [attached README instructions](docs/attached-readme-instructions.md) are preserved with the project.
+
 ## 1. Study identity and purpose
 
 | Field | Current record |
